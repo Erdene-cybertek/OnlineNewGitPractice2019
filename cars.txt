@@ -7,3 +7,4 @@ Mercedes C Class
 Toyota Prius
 Lexus GX470
 Toyota Prius git
+Subaru WRX STI
