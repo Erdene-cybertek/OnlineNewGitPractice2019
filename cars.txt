@@ -6,10 +6,8 @@ Mercedes Benz
 Mercedes C Class
 Toyota Prius
 Lexus GX470
-<<<<<<< HEAD
 Toyota Prius
 Honda Civic
-=======
-Toyota Prius git
+Toyota Prius
 Subaru WRX STI
->>>>>>> 6337f5503556017cac30c1e6b96c0e1bf8ecdf37
+
