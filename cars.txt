@@ -5,3 +5,4 @@ Toyota Camry
 Mercedes Benz
 Mercedes C Class
 Toyota Prius
+Lexus GX470
