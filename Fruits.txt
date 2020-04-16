@@ -2,4 +2,6 @@ Orange
 Mango
 Dragon fruit
 Kiwi
+Pear
+
 Apple
