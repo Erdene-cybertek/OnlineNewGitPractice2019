@@ -4,4 +4,5 @@ Dragon fruit
 Kiwi
 Pear
 Apple
+Banana
 Watermelon
