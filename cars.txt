@@ -10,4 +10,5 @@ Toyota Prius
 Honda Civic
 Toyota Prius
 Subaru WRX STI
+Range Rover Velar
 
